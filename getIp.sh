@@ -3,6 +3,8 @@
 
 while true
 do
+	date > ipadd.txt
+	echo -e "\n" >> ipadd.txt
     curl ifconfig.me >> ipadd.txt
     git add .
     git commit -m 'ip'
