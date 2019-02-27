@@ -8,5 +8,5 @@ do
     git add .
     git commit -m 'capture ip'
     git push -u origin master
-    sleep 10m
+    sleep 1m
 done
