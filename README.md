@@ -1,2 +1,2 @@
 # getIp
-The ip of lang server is uploaded to github every 10 m.
+The ip of LangChao server is uploaded to github every 10 minutes.

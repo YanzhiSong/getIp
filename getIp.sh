@@ -3,10 +3,10 @@
 
 while true
 do
-	date > ipadd.txt	
+	date > serverIP.txt	
     curl v4.ifconfig.co >> ipadd.txt
     git add .
-    git commit -m 'ip'
+    git commit -m 'capture ip'
     git push -u origin master
     sleep 10m
 done
