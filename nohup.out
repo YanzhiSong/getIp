@@ -1,28 +1,0 @@
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     18      0 --:--:-- --:--:-- --:--:--    18
-[master 27296ec] capture ip
- 2 files changed, 4 insertions(+), 1 deletion(-)
- create mode 100644 nohup.out
-To git@github.com:ahtwq/getIp.git
-   0629c74..27296ec  master -> master
-Branch master set up to track remote branch master from origin.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    15  100    15    0     0      6      0  0:00:02  0:00:02 --:--:--     6100    15  100    15    0     0      6      0  0:00:02  0:00:02 --:--:--     6
-[master 5ddebd4] capture ip
- 2 files changed, 10 insertions(+), 1 deletion(-)
-To git@github.com:ahtwq/getIp.git
-   27296ec..5ddebd4  master -> master
-Branch master set up to track remote branch master from origin.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     19      0 --:--:-- --:--:-- --:--:--    19100    15  100    15    0     0     19      0 --:--:-- --:--:-- --:--:--    19
-[master e12269a] capture ip
- 2 files changed, 9 insertions(+), 1 deletion(-)
-To git@github.com:ahtwq/getIp.git
-   5ddebd4..e12269a  master -> master
-Branch master set up to track remote branch master from origin.
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    15  100    15    0     0      6      0  0:00:02  0:00:02 --:--:--     6100    15  100    15    0     0      6      0  0:00:02  0:00:02 --:--:--     6
