@@ -1978,3 +1978,11 @@ Branch master set up to track remote branch master from origin.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100    14  100    14    0     0      5      0  0:00:02  0:00:02 --:--:--     5100    14  100    14    0     0      5      0  0:00:02  0:00:02 --:--:--     5
+[master 63cc55b] capture ip
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To git@github.com:ahtwq/getIp.git
+   29cc731..63cc55b  master -> master
+Branch master set up to track remote branch master from origin.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    14  100    14    0     0     14      0  0:00:01 --:--:--  0:00:01    14100    14  100    14    0     0     14      0  0:00:01 --:--:--  0:00:01    14
