@@ -3012,3 +3012,11 @@ Branch master set up to track remote branch master from origin.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100    15  100    15    0     0      8      0  0:00:01  0:00:01 --:--:--     8100    15  100    15    0     0      8      0  0:00:01  0:00:01 --:--:--     8
+[master 3ad3afd] capture ip
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To git@github.com:ahtwq/getIp.git
+   e3b3af1..3ad3afd  master -> master
+Branch master set up to track remote branch master from origin.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     17      0 --:--:-- --:--:-- --:--:--    17100    15  100    15    0     0     17      0 --:--:-- --:--:-- --:--:--    17
