@@ -6216,3 +6216,11 @@ Branch master set up to track remote branch master from origin.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100    14  100    14    0     0      5      0  0:00:02  0:00:02 --:--:--     5
+[master 4f372ab] capture ip
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To git@github.com:ahtwq/getIp.git
+   69e9543..4f372ab  master -> master
+Branch master set up to track remote branch master from origin.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    14  100    14    0     0     20      0 --:--:-- --:--:-- --:--:--    20
