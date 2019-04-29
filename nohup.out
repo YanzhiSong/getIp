@@ -8650,3 +8650,11 @@ Branch master set up to track remote branch master from origin.
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     23      0 --:--:-- --:--:-- --:--:--    23100    15  100    15    0     0     23      0 --:--:-- --:--:-- --:--:--    23
+[master a927a05] capture ip
+ 2 files changed, 9 insertions(+), 1 deletion(-)
+To git@github.com:ahtwq/getIp.git
+   a677353..a927a05  master -> master
+Branch master set up to track remote branch master from origin.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    15  100    15    0     0     23      0 --:--:-- --:--:-- --:--:--    23100    15  100    15    0     0     23      0 --:--:-- --:--:-- --:--:--    23
